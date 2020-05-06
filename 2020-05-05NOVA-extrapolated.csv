@@ -1,0 +1,7 @@
+state,day 0,population,official cases,current doubling,extrapolated cases,extrapolated + possible asymptomatic cases,percent infected
+Virginia,8-Mar,8535519,20256,13,40512,50640,0.59328554
+Arlington,,236842,1169,15,2338,2922.5,1.233944993
+Fairfax,,1150795,4834,11,9668,12085,1.050143596
+Loudon,,406850,998,12,1996,2495,0.613248126
+Alexandria,,159428,991,12,1982,2477.5,1.553993025
+Prince William,,468011,2223,11,4446,5557.5,1.187472089
