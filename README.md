@@ -1,6 +1,6 @@
 # COVID19
 
-This repository includes state-by-state US official infection counts data pulled from the Covid Tracking Project (https://covidtracking.com) with Wikipedia & news reports to fill in the gaps
+This repository includes state-by-state US official infection counts data pulled from the Covid Tracking Project (https://covidtracking.com) with Wikipedia & news reports to fill in the gaps. It also includes county-by-county northern Virginia official infection counts data pulled from news reports (primarily WSLS) and the VA Department of Health.
 
 The code extrapolates from the official infection count to determine the current infection rates taking into rough account the incubation period, time it takes to become symptomatic to report to authorities, and testing timelines (14-16 days).
 It also provides a guess as to total infections assuming a 25% asymptomatic rate - this latter number is still speculative.
